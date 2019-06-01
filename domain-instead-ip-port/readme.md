@@ -1,6 +1,8 @@
 # Basic http domain andd subdmain
 
-This configurations show us how use a domain instead 10.10.10.10:1546. Also this configurations works for subdomains.
+This configurations show us how use a domain instead ip:port. 
+
+Also this configurations works for subdomains.
 
 # Prerequisites
 
